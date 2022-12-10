@@ -1,8 +1,11 @@
 #include <stdio.h>
-#include <conio.h>
 
 int main(){
-	printf();
+	// my first program in C
+	
+	printf("Hello World");
+	
+	return 0;
 }
 
 
